@@ -62,7 +62,10 @@ h2 {
 }
 
 .contact a {
+  background: #0f0f0f;
   color: #d10026;
+  padding: 2rem;
+  margin-bottom: 3rem;
   text-decoration: underline;
 }
 
