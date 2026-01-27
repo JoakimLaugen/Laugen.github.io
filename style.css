@@ -59,6 +59,11 @@ h2 {
   margin-bottom: 3rem;
 }
 
+.contact a {
+  color: #d10026;
+  text-decoration: underline;
+}
+
 footer {
   text-align: center;
   padding: 2rem 1rem;
