@@ -6,7 +6,6 @@
 
 body {
   font-family: system-ui, -apple-system, sans-serif;
-  background: #66141d;
   color: #fefefe;
   line-height: 1.6;
 }
@@ -31,6 +30,7 @@ main {
   max-width: 900px;
   margin: 0 auto;
   padding: 3rem 1rem;
+  background: #66141d;
   
 }
 
