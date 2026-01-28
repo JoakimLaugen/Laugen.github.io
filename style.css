@@ -75,6 +75,10 @@ h2 {
   background: #0f0f0f;
 }
 
+.main2 h2 {
+  color: #fff269
+}
+
 .about, .contact {
   margin-bottom: 3rem;
 }
