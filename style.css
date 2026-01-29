@@ -32,7 +32,7 @@ main {
   margin: 0 auto;
   padding: 3rem 1rem;
 
-.main_bakgrunn {
+.main-wrapper {
   background: #66141d;
 }
 
